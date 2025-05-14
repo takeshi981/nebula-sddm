@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=Nebula
+Description=Nebula Theme for SDDM6
+Type=sddm-theme
+Author=Takeshi
+Copyright=2024, Takeshi
+Screenshot=preview.jpg
+License=GPL
+Version=0.1
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=nebula
+Theme-API=2.0
+QtVersion=6
+Website=https://github.com/takeshi981
