@@ -13,8 +13,7 @@ Edit /etc/sddm.conf
 [Theme]
 Current=nebula
 ```
-Edit /etc/sddm.conf.d/virtualkbd.conf
+Edit /etc/sddm.conf
 ```sh
-echo "[General]
-InputMethod=qtvirtualkeyboard" | sudo tee /etc/sddm.conf.d/virtualkbd.conf
+InputMethod=qtvirtualkeyboard
 ```
